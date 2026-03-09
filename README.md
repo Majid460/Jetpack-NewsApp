@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗞️ JetPack News App
+# 🗞️ Jetpack News App
 
 ### Production-Ready Android News App
 
@@ -172,13 +172,10 @@ SQL schema:
 |------|-------|
 | ![Home](docs/screenshots/home.png) | ![Login](docs/screenshots/login.png) |
 
-| Favorites | Profile |
+|  Detail    | Profile |
 |-----------|---------|
-| ![Favorites](docs/screenshots/favorites.png) | ![Profile](docs/screenshots/profile.png) |
+| ![Detail](docs/screenshots/article_detail.png) | ![Profile](docs/screenshots/profile.png) |
 
-| Detail                                         |
-|------------------------------------------------|
-| ![Detail](docs/screenshots/article_detail.png) |
 
 ## 🚀 Build
 
